@@ -2,7 +2,11 @@
 
 ## About
 
-This collection provides 100 modern, ready-to-use [Shields.io](https://shields.io) badges for communicating a project's current development status. The badges are grouped by message, making it easy to find a style for work in progress, active development, unfinished releases, and other project stages. Click any badge to open its direct link, then copy or customize its colors, label, style, and logo for your README.
+>This collection provides with ready-to-use badges for communicating a project's current development status. 
+
+>The badges are grouped by message, making it easy to find a style for work in progress, active development, unfinished releases, and other project stages. 
+
+>Click any badge to open its direct link, then copy or customize its colors, label, style, and logo for your README.
 
 ## Work in Progress
 
