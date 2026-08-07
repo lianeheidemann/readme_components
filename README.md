@@ -14,18 +14,8 @@ This repository is a library, not a project. There's no app to run and nothing t
 - **Icons** — small icon/logo snippets for tech stacks and skills
 - **Images** — banners, dividers, and other visual assets
 - **Stats** — GitHub stats cards, streak stats, and activity widgets
-- **Templates** — full section and full-README templates to copy from
+- **Templates** — full section
 
-## Structure
-
-```
-readme_components/
-├── badges/
-├── icons/
-├── images/
-├── stats/
-├── templates/
-└── README.md
 ```
 
 Each folder has its own examples with the markdown/HTML snippet next to a preview, so a component can be copied directly into another README.
@@ -47,3 +37,4 @@ When a template or snippet is copied or adapted from a specific repository or au
 ## License
 
 Free to use and adapt.
+```
