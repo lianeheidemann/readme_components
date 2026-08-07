@@ -8,21 +8,19 @@
 
 ---
 
-🪄 A personal collection of ready-to-use pieces for building better GitHub READMEs — badges, icons, images, stats widgets, section templates, and more.
+🪄 A personal collection of ready-to-use pieces for building better GitHub READMEs — badges, icons, images, stats widgets, section templates, and more.<br><br>
 
 ## About
 
-This repository is a library, not a project. There's no app to run and nothing to install — it's a place to store and organize snippets that get reused across other repositories' README files, so they don't have to be recreated (or re-googled) every time.
+This repository is a library, not a project. There's no app to run and nothing to install — it's a place to store and organize snippets that get reused across other repositories' README files, so they don't have to be recreated (or re-googled) every time.<br><br>
 
 ## What's inside
 
-- **Badges** — [shields.io](https://shields.io) badges for status, build, tech stack, and license, in various styles
+- **Badges** — badges for status, build, tech stack, and license, in various styles
 - **Icons** — small icon/logo snippets for tech stacks and skills
 - **Images** — banners, dividers, and other visual assets
 - **Stats** — GitHub stats cards, streak stats, and activity widgets
-- **Templates** — full section
-
----
+- **Templates** 
 
 ## Credits / Sources**  
 
