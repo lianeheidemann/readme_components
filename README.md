@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="250" src="repository-assets/readme-components-badge.png"/><br>
+<img width="250" src="repository-assets/readme-components-badge-8.png"/><br>
 
 ![Under Construction](https://img.shields.io/badge/coming%20soon-under%20construction-7C3AED?style=for-the-badge)
 
