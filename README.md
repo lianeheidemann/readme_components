@@ -8,7 +8,8 @@
 
 ---
 
-🪄 A personal collection of ready-to-use pieces for building better GitHub READMEs — badges, icons, images, stats widgets, section templates, and more.<br><br>
+🪄 A personal collection of ready-to-use pieces for building better
+GitHub READMEs — badges, icons, images, stats widgets, section templates, and more.<br><br>
 
 ## About
 
@@ -20,7 +21,7 @@ This repository is a library, not a project. There's no app to run and nothing t
 - **Icons** — small icon/logo snippets for tech stacks and skills
 - **Images** — banners, dividers, and other visual assets
 - **Stats** — GitHub stats cards, streak stats, and activity widgets
-- **Templates** 
+- **Templates** <br><br>
 
 ## Credits / Sources**  
 
