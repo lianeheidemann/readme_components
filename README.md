@@ -1,4 +1,5 @@
 # README Components
+
 ![Under Construction](https://img.shields.io/badge/coming%20soon-under%20construction-7C3AED?style=for-the-badge)
 
 A personal collection of ready-to-use pieces for building better GitHub READMEs — badges, icons, images, stats widgets, section templates, and more.
@@ -14,7 +15,6 @@ This repository is a library, not a project. There's no app to run and nothing t
 - **Images** — banners, dividers, and other visual assets
 - **Stats** — GitHub stats cards, streak stats, and activity widgets
 - **Templates** — full section and full-README templates to copy from
-  
 
 ## Structure
 
