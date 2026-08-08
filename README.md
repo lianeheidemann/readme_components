@@ -1,4 +1,4 @@
-<p align="center"><img src="repository-assets/readme-components-badge-2.svg" width="280"></p>
+<p align="center"><img src="repository-assets/readme-components-badge-3.svg" width="280"></p>
 
 <div align="center">
   
