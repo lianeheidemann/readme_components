@@ -10,7 +10,7 @@ Use elementos inspirados nessas referências, como \*\*cores, formas, ícones, i
 
 
 
-O resultado deve ser \*\*moderno, limpo, minimalista e visualmente marcante\*\*, com aparência profissional para o GitHub 
+O resultado deve ser \*\*moderno, limpo, minimalista e visualmente marcante\*\*, com aparência profissional para o GitHub
 
 
 
@@ -33,6 +33,4 @@ O resultado deve ser \*\*moderno, limpo, minimalista e visualmente marcante\*\*,
 \* Manter coerência com a identidade visual apresentada nas referências
 
 \* \*\*Não inventar logos ou elementos sem relação com o projeto\*\*
-
-
 
