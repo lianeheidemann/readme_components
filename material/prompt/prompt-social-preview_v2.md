@@ -1,0 +1,1 @@
+@imagem Crie uma imagem de \*social preview\* para um repositório do GitHub. Aja como um designer gráfico web sênior especializado. Estilo moderno, limpo e minimalista. \[\*\*Descrição do Projeto\*\* ]. Use uma paleta de cores moderna. proporção da imagem: 1280×640px (proporção 2:1). Tamanho do arquivo: menor que 1 MB
