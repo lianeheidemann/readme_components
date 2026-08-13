@@ -5,48 +5,30 @@
   <style>
     :root {
       color-scheme: light dark;
-      --text: #F7F5FC;
-      --text-outline: #342C48;
-      --border-outer: #342C48;
-      --border-inner: #C5AAF0;
+      --text: #342C48;
+      --border: #A77BDF;
       --bubble-start: #E8DEFC;
       --bubble-end: #8B5FD3;
       --bubble-small: #B99AE9;
       --bubble-highlight: #FFFFFF;
-      --dots: #E8DEFC;
-      --dots-outline: #5E3A8C;
+      --dots: #6D42A8;
     }
 
     @media (prefers-color-scheme: dark) {
       :root {
         --text: #FFFFFF;
-        --text-outline: #261E3A;
-        --border-outer: #261E3A;
-        --border-inner: #DCCFF7;
+        --border: #C5AAF0;
         --bubble-start: #F3E8FD;
         --bubble-end: #A879E3;
         --bubble-small: #DCCFF7;
         --bubble-highlight: #FFFFFF;
         --dots: #F3E8FD;
-        --dots-outline: #6D42A8;
       }
     }
 
-    .badge-border-outer { stroke: var(--border-outer); }
-    .badge-border-inner { stroke: var(--border-inner); }
-    .badge-text {
-      fill: var(--text);
-      stroke: var(--text-outline);
-      stroke-width: 2.4px;
-      paint-order: stroke fill;
-      stroke-linejoin: round;
-    }
-    .badge-dots {
-      fill: var(--dots);
-      stroke: var(--dots-outline);
-      stroke-width: 2.4px;
-      paint-order: stroke fill;
-    }
+    .badge-border { stroke: var(--border); }
+    .badge-text { fill: var(--text); }
+    .badge-dots { fill: var(--dots); }
     .bubble-small { fill: var(--bubble-small); }
     .bubble-highlight { fill: var(--bubble-highlight); }
   </style>
@@ -58,9 +40,7 @@
     </linearGradient>
   </defs>
 
-  <rect class="badge-border-outer" x="1.5" y="1.5" width="217" height="35" rx="17.5"
-        fill="none" stroke-width="3"/>
-  <rect class="badge-border-inner" x="2" y="2" width="216" height="34" rx="17"
+  <rect class="badge-border" x="1" y="1" width="218" height="36" rx="18"
         fill="none" stroke-width="1.5"/>
 
   <g aria-hidden="true">
