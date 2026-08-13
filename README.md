@@ -1,6 +1,6 @@
 <p align="center"><img src="assets/readme-components-badge/readme-components-badge-4.svg" width="280"></p>
 
-<p align="center"><img src="assets/badge_under-construction_v2.svg" width="150"></p>
+<p align="center"><img src="assets/badge_under-construction_v3.svg" width="150"></p>
 
 ---
 
